@@ -15,6 +15,7 @@ INTERNET permission is required when usage.
 
 The view doesn't need any initilization process to show the list from Google Suggestion.
 
+## Image
+
 ![sample](https://github.com/AtaruOhto/GSAutoCompleteView/blob/master/image.png)
 
-## Image
