@@ -1,0 +1,15 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingRight="20dp"
+    android:paddingLeft="20dp"
+    tools:context=".MainActivity$PlaceholderFragment">
+
+    <jp.gr.java_conf.ataruohto.googlesuggestionautocompleteviewsample.view.GSAutoCompleteTextView
+        android:id="@+id/search_video_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="true" />
+
+</RelativeLayout>
