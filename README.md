@@ -13,6 +13,8 @@ INTERNET permission is required when usage.
 
 ## Usage
 
-The view donesn't need any initilization process to show the list from Google Suggestion.
+The view doesn't need any initilization process to show the list from Google Suggestion.
 
 ![sample](https://github.com/AtaruOhto/GSAutoCompleteView/blob/master/image.png)
+
+## Image
